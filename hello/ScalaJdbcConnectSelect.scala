@@ -2,8 +2,7 @@ import java.sql.DriverManager
 import java.sql.Connection
 
 /**
- * A Scala JDBC connection example by Alvin Alexander,
- * http://alvinalexander.com
+ * A Scala JDBC connection example by me
  */
 object ScalaJdbcConnectSelect 
 {
