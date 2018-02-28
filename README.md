@@ -1,4 +1,4 @@
-# ScalaDBConn
+# Scala Oracle DB Connection Example
 
 <h1>Stage 1</h1> : Establish Oracle DB connection
 
